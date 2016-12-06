@@ -8,6 +8,7 @@ npm link
 
 ```
 cd <target folder>
+npm link generator-cus
 yo cus
 ```
 
