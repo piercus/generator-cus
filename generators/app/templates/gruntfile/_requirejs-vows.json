@@ -1,0 +1,12 @@
+{
+  "services": {
+    "options" : {
+      "rjsModules" : [
+      ],
+      "rjsConfig" : {
+        "paths": {
+        }
+      }
+    }
+  }
+}

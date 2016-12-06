@@ -1,0 +1,29 @@
+{
+  "name": "<%= name %>",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.1.4",
+    "build-basic-error": "^1.0.0",
+    "requirejs": "^2.3.2",
+    "winston": "^1.0.1",
+    "Array": "git://github.com/piercus/Array.git",
+    "String": "git://github.com/piercus/String.git",
+    "seed-js": "0.0.8"
+  },
+  "devDependencies": {
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-mkdir": "^1.0.0",
+    "grunt": "^1.0.1",
+    "grunt-bump": "^0.8.0",
+    "grunt-requirejs-vows": "*",
+    "grunt-git": "^1.0.1",
+    "vows": "^0.8.1"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "Pierre Colle (Klap)",
+  "private": true,
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "generator-cus",
+  "version": "0.1.0",
+  "description": "",
+  "files": ["generators/app"],
+  "keywords" : ["yeoman-generator"],
+  "author": "Pierre Colle (Klap)",
+  "license": "MIT"
+}
